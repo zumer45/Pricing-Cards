@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../Tailwind Projects"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Simple Tailwind Starter"
+  }
+}
